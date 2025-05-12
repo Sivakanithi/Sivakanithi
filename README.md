@@ -1,7 +1,7 @@
 ## Hi, I'm siva kanithi 👋
-🎓 I'm an IT student at GMR Institute of Technology (GMRIT)
-💻 Passionate MERN Stack Web Developer
-🏆 Competitive Programmer (mostly in C++)
+🎓 I'm an IT student at GMR Institute of Technology (GMRIT)<br/>
+💻 Passionate MERN Stack Web Developer<br/>
+🏆 Competitive Programmer (mostly in C++)<br/>
 🚀 Always learning, building, and solving problems!
 
 
